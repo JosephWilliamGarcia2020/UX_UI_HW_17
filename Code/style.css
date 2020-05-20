@@ -1,0 +1,140 @@
+.topnav-right { 
+    display: inline-block;
+    vertical-align: top;
+    float: right;
+    padding-right: 2%;  
+}
+.topnav-right a { 
+    text-decoration: none;
+    width: 100px;
+    display: inline-block;
+    padding: 15px;
+    font-size: 20px;
+    font-family: Helvetica;
+    color: #B39450
+}
+
+.logo { 
+    padding-left: 110px;
+} 
+
+.paragraph { 
+    color: #B39450;
+    padding-left: 55px;  
+
+}
+
+.heroImg { 
+    display: inline;
+    font-size: 20px;
+    font-family: sans-serif;
+    width: 254px;
+    height: 68px;
+    text-align: center;
+}
+
+.img { 
+    text-align: center;
+}
+
+.HeaderParagraph { 
+    font-family: 'Libre Baskerville', serif;
+    margin-left: 0%;
+    text-align: center;
+    padding: 1.2em;
+}
+
+.h2 { 
+    text-align: center;
+    font-size: 20px;   
+}
+
+.h3 { 
+    font-size: 20px;
+    text-align: center;
+    padding-right: 500px;
+    font-family:'Roboto', sans-serif;
+
+
+}
+
+.ImageWhy { 
+    text-align: center;
+    
+}
+
+.paragraph1 { 
+    margin-left: 0%;
+    text-align: center;
+    padding: 1.2em;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.h4 { 
+    margin-left: 0%;
+    text-align: center;
+    font-size: 20px;
+    padding-right: 500px;
+    font-family:'Roboto', sans-serif;
+
+    
+    
+}
+.img2 { 
+    text-align: center;
+
+}
+
+.paragraph2 { 
+    text-indent: 50px;
+    text-align: center; 
+    padding: 1.2em;
+    font-family: 'Libre Baskerville', serif;
+
+}
+
+
+.img3 { 
+    text-align: center;
+
+}
+
+.h5 { 
+    margin-left: 0%;
+    text-align: center;
+    padding-right: 700px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.paragraph3 { 
+    text-indent: 50px;
+    text-align: center;
+    padding: 1.2em;
+    font-family:'Libre Baskerville', serif;
+    font-size: 30;
+
+}
+
+.h6  { 
+    text-align: center;
+    font-size: 30px;
+}
+
+.footer { 
+    display: inline-block;
+    float: right;
+    vertical-align: bottom;
+    
+
+}
+
+.footer a { 
+    text-decoration: none;
+    width: 100px;
+    display: inline-block;
+    padding: 15px;
+    font-size: 20px;
+    font-family: Helvetica;
+    color: #B39450   
+}
